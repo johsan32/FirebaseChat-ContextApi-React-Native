@@ -1,3 +1,4 @@
+# FirebaseChat-ContextApi-React-Native
 # What's Up - React Native Mesaj Uygulaması
 What's Up, React Native kullanarak geliştirilen kapsamlı bir mesajlaşma uygulamasıdır. Bu uygulama, telefon numarasıyla kayıt oluşturma, SMS ile güvenlik doğrulaması, rehber entegrasyonu, canlı sohbet ve profil sayfaları gibi birçok özelliği içerir.
 
@@ -57,8 +58,5 @@ Katkıda Bulunma
 ![print-screen](screen4.png)
 
 ![gif](gif.gif)
-# What-sUp-1_React-Native
-# FirebaseChat-ContextApi-React-Native
-# FirebaseChat-ContextApi-React-Native
-# FirebaseChat-ContextApi-React-Native
+
 # FirebaseChat-ContextApi-React-Native
